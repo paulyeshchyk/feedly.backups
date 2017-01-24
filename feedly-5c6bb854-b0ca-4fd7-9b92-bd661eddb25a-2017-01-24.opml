@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Paul subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="-- Android --" title="-- Android --">
+            <outline type="rss" text="Google Developers" title="Google Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw" htmlUrl="http://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"/>
+            <outline type="rss" text="Android Developers (uploads) on YouTube" title="Android Developers (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUVHFbqXqoYvEWM1Ddxl0QDg" htmlUrl="https://youtube.com/playlist?list=UUVHFbqXqoYvEWM1Ddxl0QDg"/>
+        </outline>
+        <outline text="-- House keeping --" title="-- House keeping --">
+            <outline type="rss" text="Как стать фермером? (uploads) on YouTube" title="Как стать фермером? (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUG0Rubcnhese4XznqM-6jPw" htmlUrl="https://youtube.com/playlist?list=UUG0Rubcnhese4XznqM-6jPw"/>
+            <outline type="rss" text="Александр Терехов (uploads) on YouTube" title="Александр Терехов (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUqWHFre0bYYY_oQA33vq-1w" htmlUrl="https://youtube.com/playlist?list=UUqWHFre0bYYY_oQA33vq-1w"/>
+        </outline>
+        <outline text="--Pinterest--" title="--Pinterest--">
+            <outline type="rss" text="dye.bench.router" title="dye.bench.router" xmlUrl="https://www.pinterest.com/paulyestchick/dyebenchrouter.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyebenchrouter/"/>
+            <outline type="rss" text="dye.project.metal" title="dye.project.metal" xmlUrl="https://www.pinterest.com/paulyestchick/dyeprojectmetal.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyeprojectmetal/"/>
+            <outline type="rss" text="dyi.bench.grinder" title="dyi.bench.grinder" xmlUrl="https://www.pinterest.com/paulyestchick/dyibenchgrinder.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyibenchgrinder/"/>
+            <outline type="rss" text="dyi.bench.rails" title="dyi.bench.rails" xmlUrl="https://www.pinterest.com/paulyestchick/dyibenchrails.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyibenchrails/"/>
+            <outline type="rss" text="dyi.bench.workbench" title="dyi.bench.workbench" xmlUrl="https://www.pinterest.com/paulyestchick/dyibenchworkbench.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyibenchworkbench/"/>
+            <outline type="rss" text="dyi.bench" title="dyi.bench" xmlUrl="https://www.pinterest.com/paulyestchick/dyibench.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyibench/"/>
+            <outline type="rss" text="dyi.jig.box joint" title="dyi.jig.box joint" xmlUrl="https://www.pinterest.com/paulyestchick/dyijigbox-joint.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyijigbox-joint/"/>
+            <outline type="rss" text="dyi.jig.router" title="dyi.jig.router" xmlUrl="https://www.pinterest.com/paulyestchick/dyijigrouter.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyijigrouter/"/>
+            <outline type="rss" text="dyi.jig.saw" title="dyi.jig.saw" xmlUrl="https://www.pinterest.com/paulyestchick/dyijigsaw.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyijigsaw/"/>
+            <outline type="rss" text="dyi.jig.sharpener" title="dyi.jig.sharpener" xmlUrl="https://www.pinterest.com/paulyestchick/dyijigsharpener.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyijigsharpener/"/>
+            <outline type="rss" text="dyi.metal.weldering" title="dyi.metal.weldering" xmlUrl="https://www.pinterest.com/paulyestchick/dyimetalweldering.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyimetalweldering/"/>
+            <outline type="rss" text="dyi.project.gears" title="dyi.project.gears" xmlUrl="https://www.pinterest.com/paulyestchick/dyiprojectgears.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyiprojectgears/"/>
+            <outline type="rss" text="dyi.project.wood.furniture" title="dyi.project.wood.furniture" xmlUrl="https://www.pinterest.com/paulyestchick/dyiprojectwoodfurniture.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyiprojectwoodfurniture/"/>
+            <outline type="rss" text="dyi.router" title="dyi.router" xmlUrl="https://www.pinterest.com/paulyestchick/dyirouter.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyirouter/"/>
+            <outline type="rss" text="dyi.wood.joints" title="dyi.wood.joints" xmlUrl="https://www.pinterest.com/paulyestchick/dyiwoodjoints.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/dyiwoodjoints/"/>
+            <outline type="rss" text="wood" title="wood" xmlUrl="https://www.pinterest.com/paulyestchick/wood.rss/" htmlUrl="https://www.pinterest.com/paulyestchick/wood/"/>
+        </outline>
+        <outline text="private" title="private">
+            <outline type="rss" text="Paul Yestchick's Facebook Notifications" title="Paul Yestchick's Facebook Notifications" xmlUrl="http://www.facebook.com/feeds/notifications.php?id=100001192503267&amp;viewer=100001192503267&amp;key=7122564320&amp;format=rss20"/>
+            <outline type="rss" text="Marex Zbikowsky's Facebook Notifications" title="Marex Zbikowsky's Facebook Notifications" xmlUrl="http://www.facebook.com/feeds/notifications.php?id=100000776641590&amp;viewer=100000776641590&amp;key=10a0fc0c9f&amp;format=rss20"/>
+        </outline>
+        <outline text="Links" title="Links">
+            <outline type="rss" text="paulyestchick » Feed" title="paulyestchick » Feed" xmlUrl="https://paulyestchick.wordpress.com/feed/" htmlUrl="https://paulyestchick.wordpress.com"/>
+        </outline>
+        <outline text="-- BLOGs --" title="-- BLOGs --">
+            <outline type="rss" text="Mike Ash" title="Mike Ash" xmlUrl="http://www.mikeash.com/pyblog/rss.py" htmlUrl="http://www.mikeash.com/pyblog/"/>
+            <outline type="rss" text="Cocoa Is My Girlfriend" title="Cocoa Is My Girlfriend" xmlUrl="http://www.cimgf.com/feed/" htmlUrl="http://www.cimgf.com"/>
+        </outline>
+        <outline text="-- Coding --" title="-- Coding --">
+            <outline type="rss" text="Quality Coding (uploads) on YouTube" title="Quality Coding (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UU69XtVGLRydpG7o1nkdQs8Q" htmlUrl="https://youtube.com/playlist?list=UU69XtVGLRydpG7o1nkdQs8Q"/>
+            <outline type="rss" text="LiveLessons (uploads) on YouTube" title="LiveLessons (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UURnKF_l-6-6v6O_IVWfTOVg" htmlUrl="https://youtube.com/playlist?list=UURnKF_l-6-6v6O_IVWfTOVg"/>
+        </outline>
+        <outline text="-- LAI --" title="-- LAI --">
+            <outline type="rss" text="Дмитрий Назаров (uploads) on YouTube" title="Дмитрий Назаров (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UU_XZILP23zNHevlZZkfV7SA" htmlUrl="https://youtube.com/playlist?list=UU_XZILP23zNHevlZZkfV7SA"/>
+            <outline type="rss" text="Alien Scientia (uploads) on YouTube" title="Alien Scientia (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUX1k7Ua7k7kBdr_USu8_Kkw" htmlUrl="https://youtube.com/playlist?list=UUX1k7Ua7k7kBdr_USu8_Kkw"/>
+            <outline type="rss" text="Лаборатория Альтернативной Истории" title="Лаборатория Альтернативной Истории" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPv-XHR1op_RFKa3_e6rR9Q" htmlUrl="http://www.youtube.com/channel/UCPv-XHR1op_RFKa3_e6rR9Q"/>
+            <outline type="rss" text="Alien Scientia (ЛАИ за кадром) on YouTube" title="Alien Scientia (ЛАИ за кадром) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLKxGfDgXA5uhdSygvp6mLQMNkjvRLug87" htmlUrl="https://youtube.com/playlist?list=PLKxGfDgXA5uhdSygvp6mLQMNkjvRLug87"/>
+        </outline>
+        <outline text="-- Microcontrollers --" title="-- Microcontrollers --">
+            <outline type="rss" text="Алексей Коробейников (uploads) on YouTube" title="Алексей Коробейников (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUScWqltDCDEGbiG1-e_gDjQ" htmlUrl="https://youtube.com/playlist?list=UUScWqltDCDEGbiG1-e_gDjQ"/>
+            <outline type="rss" text="Александр Писанец (uploads) on YouTube" title="Александр Писанец (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUczziZl2-kvBUhzX9awdNEA" htmlUrl="https://youtube.com/playlist?list=UUczziZl2-kvBUhzX9awdNEA"/>
+        </outline>
+        <outline text="-- Science --" title="-- Science --">
+            <outline type="rss" text="English Transcripts" title="English Transcripts" xmlUrl="http://english-transcripts.blogspot.ru/feeds/posts/default" htmlUrl="http://english-transcripts.blogspot.com/"/>
+            <outline type="rss" text="Наука 2.0 (uploads) on YouTube" title="Наука 2.0 (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUIi2Tk2POJkRgWHD7HGBa7Q" htmlUrl="https://youtube.com/playlist?list=UUIi2Tk2POJkRgWHD7HGBa7Q"/>
+            <outline type="rss" text="Naked Science - Наука" title="Naked Science - Наука" xmlUrl="http://naked-science.ru/sci_rss.xml" htmlUrl="https://naked-science.ru/article/sci"/>
+            <outline type="rss" text="Наука 21 век" title="Наука 21 век" xmlUrl="http://nauka21vek.ru/feed" htmlUrl="http://nauka21vek.ru"/>
+            <outline type="rss" text="Technology Headlines" title="Technology Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd"/>
+            <outline type="rss" text="Serious Science" title="Serious Science" xmlUrl="http://serious-science.org/feed" htmlUrl="http://serious-science.org"/>
+            <outline type="rss" text="euronews - science" title="euronews - science" xmlUrl="http://feeds.feedburner.com/euronews/ru/sci-tech/" htmlUrl="http://ru.euronews.com"/>
+            <outline type="rss" text="ПостНаука" title="ПостНаука" xmlUrl="http://postnauka.ru/feed" htmlUrl="https://postnauka.ru"/>
+            <outline type="rss" text="Science: Current Issue" title="Science: Current Issue" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org"/>
+        </outline>
+        <outline text="-- tokarka --" title="-- tokarka --">
+            <outline type="rss" text="WaTch tHis (uploads) on YouTube" title="WaTch tHis (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUyw8UPfMJsP-I6O4wEuXH3A" htmlUrl="https://youtube.com/playlist?list=UUyw8UPfMJsP-I6O4wEuXH3A"/>
+            <outline type="rss" text="Левша (uploads) on YouTube" title="Левша (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUQpBYQ0FkiKQju94WX1yveQ" htmlUrl="https://youtube.com/playlist?list=UUQpBYQ0FkiKQju94WX1yveQ"/>
+            <outline type="rss" text="ДОМИНИК ТВ (uploads) on YouTube" title="ДОМИНИК ТВ (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUQgk39KpegZFW7CMldjhPvg" htmlUrl="https://youtube.com/playlist?list=UUQgk39KpegZFW7CMldjhPvg"/>
+        </outline>
+        <outline text="-- byFly --" title="-- byFly --">
+            <outline type="rss" text="Новости zala" title="Новости zala" xmlUrl="http://zala.by/news-feed" htmlUrl="http://zala.by/news-feed"/>
+            <outline type="rss" text="Новости byfly" title="Новости byfly" xmlUrl="http://byfly.by/news-feed" htmlUrl="http://byfly.by/news-feed"/>
+        </outline>
+        <outline text="-- Aerodynamics --" title="-- Aerodynamics --">
+            <outline type="rss" text="aerodynamics (uploads) on YouTube" title="aerodynamics (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUtnIReOJI2L7J8-g7TuXxTQ" htmlUrl="https://youtube.com/playlist?list=UUtnIReOJI2L7J8-g7TuXxTQ"/>
+        </outline>
+        <outline text="-- BY News --" title="-- BY News --">
+            <outline type="rss" text="UCPB.ORG - Новости" title="UCPB.ORG - Новости" xmlUrl="http://www.ucpb.org/news_rus.rss"/>
+            <outline type="rss" text="Наше мнение" title="Наше мнение" xmlUrl="http://nmnby.eu/rss/" htmlUrl="http://nmnby.eu"/>
+            <outline type="rss" text="UDF.BY" title="UDF.BY" xmlUrl="http://feeds.feedburner.com/ads" htmlUrl="http://udf.by/"/>
+            <outline type="rss" text="Моладзь БНФ | Афіцыйны сайт" title="Моладзь БНФ | Афіцыйны сайт" xmlUrl="http://feeds.feedburner.com/mbnf" htmlUrl="http://http://marathiblogs.net/recent_posts/feed"/>
+            <outline type="rss" text="belaruspartisan.org" title="belaruspartisan.org" xmlUrl="http://www.belaruspartisan.org/bp-forte/?page=1040" htmlUrl="http://www.belaruspartisan.org"/>
+            <outline type="rss" text="Народная Воля - RSS Навіны" title="Народная Воля - RSS Навіны" xmlUrl="http://www.nv-online.info/?tpl=134" htmlUrl="http://nv-online.info"/>
+            <outline type="rss" text="Беларуская сацыял-дэмакратычная партыя (Грамада) -" title="Беларуская сацыял-дэмакратычная партыя (Грамада) -" xmlUrl="http://bsdp.org/?q=be/node/feed" htmlUrl="http://bsdp.org"/>
+            <outline type="rss" text="Лента новостей из раздела «Навіны Гародні»" title="Лента новостей из раздела «Навіны Гародні»" xmlUrl="http://grodna.info/bel/%D0%BD%D0%B0%D0%B2%D1%96%D0%BD%D1%8B/%D1%83%D1%81%D0%B5/rss/" htmlUrl="http://grodna.info/"/>
+            <outline type="rss" text="s13" title="s13" xmlUrl="http://feeds.feedburner.com/S13" htmlUrl="http://s13.ru"/>
+            <outline type="rss" text="Euroradio" title="Euroradio" xmlUrl="http://euroradio.by/rss.xml" htmlUrl="http://euroradio.by"/>
+            <outline type="rss" text="naviny.by" title="naviny.by" xmlUrl="http://naviny.by/rss/index.rss?view=alls" htmlUrl="http://naviny.by/"/>
+            <outline type="rss" text="Радыё Свабода / Радыё Свабодная Эўропа" title="Радыё Свабода / Радыё Свабодная Эўропа" xmlUrl="http://www.svaboda.org/rss/?count=50" htmlUrl="http://www.svaboda.org"/>
+            <outline type="rss" text="Политобоз - Политическое обозрение: Беларусь, ex-СССР, Мир" title="Политобоз - Политическое обозрение: Беларусь, ex-СССР, Мир" xmlUrl="http://politoboz.com/rss_full_content.xml" htmlUrl="http://politoboz.com/rss.xml"/>
+            <outline type="rss" text="Наша Ніва: першая беларуская газета" title="Наша Ніва: першая беларуская газета" xmlUrl="http://nn.by/rss.php" htmlUrl="http://nn.by/"/>
+            <outline type="rss" text="gazetaby.com" title="gazetaby.com" xmlUrl="http://feeds.feedburner.com/gazetaby/RWkL" htmlUrl="http://www.gazetaby.com"/>
+            <outline type="rss" text="Праваабарончы цэнтр «ВЯСНА»" title="Праваабарончы цэнтр «ВЯСНА»" xmlUrl="http://spring96.org/be/rss" htmlUrl="http://spring96.org"/>
+            <outline type="rss" text="Euramost.org" title="Euramost.org" xmlUrl="http://feeds.feedburner.com/euramost" htmlUrl="http://www.euramost.org/"/>
+            <outline type="rss" text="ВЯЛЕЙКА - БУДЗЬМА РАЗАМ!!! Cайт Горада Вілейка і Вілейскага Раёна" title="ВЯЛЕЙКА - БУДЗЬМА РАЗАМ!!! Cайт Горада Вілейка і Вілейскага Раёна" xmlUrl="http://vialejka.org/rss.xml" htmlUrl="http://vialejka.org/"/>
+            <outline type="rss" text="ERB News feed" title="ERB News feed" xmlUrl="http://euroradio.by/by/766/podcast/?tpl=197"/>
+        </outline>
+        <outline text="-- HiTechNews --" title="-- HiTechNews --">
+            <outline type="rss" text="DailyJS" title="DailyJS" xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com/"/>
+            <outline type="rss" text="Geektimes / Интересные публикации" title="Geektimes / Интересные публикации" xmlUrl="https://geektimes.ru/rss/" htmlUrl="https://geektimes.ru/"/>
+            <outline type="rss" text="Technology Headlines" title="Technology Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd"/>
+            <outline type="rss" text="Психология в IT" title="Психология в IT" xmlUrl="http://feeds.feedburner.com/it-boost/mkyw" htmlUrl="http://it-boost.com"/>
+            <outline type="rss" text="Хабрахабр:" title="Хабрахабр:" xmlUrl="http://www.habrahabr.ru/rss/main/" htmlUrl="https://habrahabr.ru/"/>
+            <outline type="rss" text="eBooks-IT.org new added eBooks" title="eBooks-IT.org new added eBooks" xmlUrl="http://feeds.feedburner.com/ebooksit" htmlUrl="https://ebooks-it.org/"/>
+            <outline type="rss" text="Новости IT.TUT.BY" title="Новости IT.TUT.BY" xmlUrl="http://it.tut.by/rss.xml" htmlUrl="https://42.tut.by/"/>
+        </outline>
+        <outline text="-- Woodmaker --" title="-- Woodmaker --">
+            <outline type="rss" text="Matthias Wandel" title="Matthias Wandel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCckETVOT59aYw80B36aP9vw" htmlUrl="http://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw"/>
+            <outline type="rss" text="Александр Шенрок (uploads) on YouTube" title="Александр Шенрок (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUmVPYYyc1E0gaCoyXQdNmTA" htmlUrl="https://youtube.com/playlist?list=UUmVPYYyc1E0gaCoyXQdNmTA"/>
+            <outline type="rss" text="jimmydiresta" title="jimmydiresta" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiEk4xHBbz0hZNIBBpowdYQ" htmlUrl="http://www.youtube.com/channel/UCiEk4xHBbz0hZNIBBpowdYQ"/>
+            <outline type="rss" text="John Heisz (uploads) on YouTube" title="John Heisz (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUjA8vRlL1c7BDixQRJ39-LQ" htmlUrl="https://youtube.com/playlist?list=UUjA8vRlL1c7BDixQRJ39-LQ"/>
+            <outline type="rss" text="The Wood Whisperer" title="The Wood Whisperer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKp44bWWZIiOPShPN_ytShw" htmlUrl="http://www.youtube.com/channel/UCKp44bWWZIiOPShPN_ytShw"/>
+            <outline type="rss" text="pocket83 (uploads) on YouTube" title="pocket83 (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUoCEoPxruw9HW58O-l3ttDQ" htmlUrl="https://youtube.com/playlist?list=UUoCEoPxruw9HW58O-l3ttDQ"/>
+            <outline type="rss" text="Paoson WoodWorking" title="Paoson WoodWorking" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4PI8VEr1ZaKn4TBcXoy3qg" htmlUrl="http://www.youtube.com/channel/UC4PI8VEr1ZaKn4TBcXoy3qg"/>
+            <outline type="rss" text="mtmwood" title="mtmwood" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWBTyvNhUXq0ofu6ta1EAaQ" htmlUrl="http://www.youtube.com/channel/UCWBTyvNhUXq0ofu6ta1EAaQ"/>
+            <outline type="rss" text="LePilkin62TV (uploads) on YouTube" title="LePilkin62TV (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUgyROYOwUM-60-mUgpNQifw" htmlUrl="https://youtube.com/playlist?list=UUgyROYOwUM-60-mUgpNQifw"/>
+            <outline type="rss" text="Ronald Walters" title="Ronald Walters" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeSTRun3Q6OWu74L5k5BTnQ" htmlUrl="http://www.youtube.com/channel/UCeSTRun3Q6OWu74L5k5BTnQ"/>
+            <outline type="rss" text="Андрей Ярмолкевич" title="Андрей Ярмолкевич" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpRd7l14U_MnFHwmlrCTIsQ" htmlUrl="http://www.youtube.com/channel/UCpRd7l14U_MnFHwmlrCTIsQ"/>
+            <outline type="rss" text="Bellevue Woodshop" title="Bellevue Woodshop" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe70_JXJ080OegKY_H148DA" htmlUrl="http://www.youtube.com/channel/UCe70_JXJ080OegKY_H148DA"/>
+            <outline type="rss" text="Paoson WoodWorking (uploads) on YouTube" title="Paoson WoodWorking (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UU4PI8VEr1ZaKn4TBcXoy3qg" htmlUrl="https://youtube.com/playlist?list=UU4PI8VEr1ZaKn4TBcXoy3qg"/>
+            <outline type="rss" text="Maxim Kozlov" title="Maxim Kozlov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC02-8twxpXD2KPVSR5lmEFQ" htmlUrl="http://www.youtube.com/channel/UC02-8twxpXD2KPVSR5lmEFQ"/>
+            <outline type="rss" text="izzy swan (uploads) on YouTube" title="izzy swan (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUO39zTYpvWL5jx2q15Ma_Hw" htmlUrl="https://youtube.com/playlist?list=UUO39zTYpvWL5jx2q15Ma_Hw"/>
+            <outline type="rss" text="Savvas Papasavva" title="Savvas Papasavva" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-0DisgeKVC4tXhidNjRTpg" htmlUrl="http://www.youtube.com/channel/UC-0DisgeKVC4tXhidNjRTpg"/>
+            <outline type="rss" text="Alan Holtham (uploads) on YouTube" title="Alan Holtham (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUyS4VRap5TmeAno45sECfhQ" htmlUrl="https://youtube.com/playlist?list=UUyS4VRap5TmeAno45sECfhQ"/>
+            <outline type="rss" text="HeARTwood" title="HeARTwood" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8gbUkfhMi1Got0rMD2s7TA" htmlUrl="http://www.youtube.com/channel/UC8gbUkfhMi1Got0rMD2s7TA"/>
+            <outline type="rss" text="CrazyRussianWoodShop (SHOPMADE JIGS) on YouTube" title="CrazyRussianWoodShop (SHOPMADE JIGS) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PL4TYeRSv-pF6uy-mHbX7QOSOUhcw6XdRU" htmlUrl="https://youtube.com/playlist?list=PL4TYeRSv-pF6uy-mHbX7QOSOUhcw6XdRU"/>
+            <outline type="rss" text="Jeremy Schmidt" title="Jeremy Schmidt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0T7tvy44mlQCjaTtparOZw" htmlUrl="http://www.youtube.com/channel/UC0T7tvy44mlQCjaTtparOZw"/>
+            <outline type="rss" text="Любишь ли ты инструмент как люблю его я? (uploads) on YouTube" title="Любишь ли ты инструмент как люблю его я? (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UU9q17S1Rc5Z8dAnnze_t5Pg" htmlUrl="https://youtube.com/playlist?list=UU9q17S1Rc5Z8dAnnze_t5Pg"/>
+            <outline type="rss" text="Volodymir Evdokimov" title="Volodymir Evdokimov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSDylM1i5mnPHKtfuO0Jjvg" htmlUrl="http://www.youtube.com/channel/UCSDylM1i5mnPHKtfuO0Jjvg"/>
+        </outline>
+        <outline text="-- RU News --" title="-- RU News --">
+            <outline type="rss" text="Грани.Ру: Общество" title="Грани.Ру: Общество" xmlUrl="http://grani.ru/Society.rss" htmlUrl="http://graniru.org/Society/"/>
+            <outline type="rss" text="Lenta.ru: Новости" title="Lenta.ru: Новости" xmlUrl="http://img.lenta.ru/r/EX/import.rss" htmlUrl="http://lenta.ru"/>
+            <outline type="rss" text="Особое мнение (звук) | Эхо Москвы" title="Особое мнение (звук) | Эхо Москвы" xmlUrl="http://echo.msk.ru/programs/personalno/rss-audio.xml" htmlUrl="http://echo.msk.ru/programs/personalno/"/>
+            <outline type="rss" text="Газета &quot;Коммерсантъ&quot;. Главное" title="Газета &quot;Коммерсантъ&quot;. Главное" xmlUrl="http://dynamic.feedsportal.com/pf/438799/http://feeds.kommersant.ru/RSS_Export/RU/main.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline type="rss" text="Горячие интервью (звук) | Эхо Москвы" title="Горячие интервью (звук) | Эхо Москвы" xmlUrl="http://echo.msk.ru/interview/rss-audio.xml" htmlUrl="http://echo.msk.ru/interview/"/>
+            <outline type="rss" text="Imperial Commissar" title="Imperial Commissar" xmlUrl="http://imperialcommiss.livejournal.com/data/rss" htmlUrl="http://imperialcommiss.livejournal.com/"/>
+            <outline type="rss" text="ИноСМИ - Все, что достойно перевода" title="ИноСМИ - Все, что достойно перевода" xmlUrl="http://www.inosmi.ru/export/rss2/world/index.xml" htmlUrl="http://inosmi.ru/world/"/>
+            <outline type="rss" text="VOA News:  Новости" title="VOA News:  Новости" xmlUrl="http://www.voanews.com/templates/Articles.rss?sectionPath=/russian/news" htmlUrl="http://www.golos-ameriki.ru"/>
+            <outline type="rss" text="euronews - news" title="euronews - news" xmlUrl="http://feeds.feedburner.com/euronews/ru/news" htmlUrl="http://ru.euronews.com"/>
+            <outline type="rss" text="РБК. Политика" title="РБК. Политика" xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/politics.rss" htmlUrl="http://www.rbc.ru/politics/"/>
+        </outline>
+        <outline text="-- Electronics --" title="-- Electronics --">
+            <outline type="rss" text="Электротехника и электроника для программистов (uploads) on YouTube" title="Электротехника и электроника для программистов (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUFI31dsn8yxaarw6LZpSHWw" htmlUrl="https://youtube.com/playlist?list=UUFI31dsn8yxaarw6LZpSHWw"/>
+            <outline type="rss" text="Паяльник TV" title="Паяльник TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh9cB06Agv1Z8QTIkiGqotA" htmlUrl="http://www.youtube.com/channel/UCh9cB06Agv1Z8QTIkiGqotA"/>
+            <outline type="rss" text="PartSim (uploads) on YouTube" title="PartSim (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUTN6XXVpmMLe48Cd3SOsuAA" htmlUrl="https://youtube.com/playlist?list=UUTN6XXVpmMLe48Cd3SOsuAA"/>
+            <outline type="rss" text="ETUSPB (uploads) on YouTube" title="ETUSPB (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUOzr11sryjsiwxLF5sXDR7A" htmlUrl="https://youtube.com/playlist?list=UUOzr11sryjsiwxLF5sXDR7A"/>
+        </outline>
+        <outline text="-- Photo --" title="-- Photo --">
+            <outline type="rss" text="Про фото и видео (uploads) on YouTube" title="Про фото и видео (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUDXkUi-EYdJwUHCPH2clXLQ" htmlUrl="https://youtube.com/playlist?list=UUDXkUi-EYdJwUHCPH2clXLQ"/>
+        </outline>
+        <outline text="-- AllInOne --" title="-- AllInOne --">
+            <outline type="rss" text="Derek Banas (uploads) on YouTube" title="Derek Banas (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUwRXb5dUK4cvsHbx-rGzSgw" htmlUrl="https://youtube.com/playlist?list=UUwRXb5dUK4cvsHbx-rGzSgw"/>
+        </outline>
+        <outline text="-- Cubic Rubic --" title="-- Cubic Rubic --">
+            <outline type="rss" text="RBcuber (uploads) on YouTube" title="RBcuber (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUkTKyAw1-xYrFy7QVc6TSAw" htmlUrl="https://youtube.com/playlist?list=UUkTKyAw1-xYrFy7QVc6TSAw"/>
+        </outline>
+        <outline text="-- Society --" title="-- Society --">
+            <outline type="rss" text="Валентин Антипенко на IMHOclub.lv" title="Валентин Антипенко на IMHOclub.lv" xmlUrl="http://imhoclub.by/ru/rss/5146" htmlUrl="http://imhoclub.by/ru/author_page/5146"/>
+            <outline type="rss" text="Научи хорошему (uploads) on YouTube" title="Научи хорошему (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUm2294aoHz5-Po7d56rOkEg" htmlUrl="https://youtube.com/playlist?list=UUm2294aoHz5-Po7d56rOkEg"/>
+            <outline type="rss" text="TheRichest" title="TheRichest" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdxi8d8qRsRyUi2ERYjYb-w" htmlUrl="http://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w"/>
+            <outline type="rss" text="Научи Хорошему 2.0 (uploads) on YouTube" title="Научи Хорошему 2.0 (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUO6uKp-JxSdb3pO0waWkzjQ" htmlUrl="https://youtube.com/playlist?list=UUO6uKp-JxSdb3pO0waWkzjQ"/>
+        </outline>
+        <outline text="-- yaplakal --" title="-- yaplakal --">
+            <outline type="rss" text="Анекдоты из России. Лучшие анекдоты по результатам голосований" title="Анекдоты из России. Лучшие анекдоты по результатам голосований" xmlUrl="http://www.anekdot.ru/rss/export_top.xml" htmlUrl="https://www.anekdot.ru/"/>
+            <outline type="rss" text="Магомед, 44 считает тебя привлекательным!" title="Магомед, 44 считает тебя привлекательным!" xmlUrl="http://tema.livejournal.com/data/rss" htmlUrl="http://tema.livejournal.com/"/>
+            <outline type="rss" text="Bash.Org.Ru" title="Bash.Org.Ru" xmlUrl="http://bash.org.ru/rss/" htmlUrl="http://bash.im/"/>
+            <outline type="rss" text="Приколы на ЯПлакалъ - самый креативный развлекательный портал" title="Приколы на ЯПлакалъ - самый креативный развлекательный портал" xmlUrl="http://www.yaplakal.com/news.xml" htmlUrl="http://www.yaplakal.com"/>
+        </outline>
+        <outline text="-- Kurginian and Co --" title="-- Kurginian and Co --">
+            <outline type="rss" text="wwwEotSu (uploads) on YouTube" title="wwwEotSu (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUPS_D5aU7pKvzRl5Vl6hzZg" htmlUrl="https://youtube.com/playlist?list=UUPS_D5aU7pKvzRl5Vl6hzZg"/>
+        </outline>
+        <outline text="-- ITSpam --" title="-- ITSpam --">
+            <outline type="rss" text="SecurityLab.ru" title="SecurityLab.ru" xmlUrl="http://www.securitylab.ru/_Services/Export/RSS/" htmlUrl="http://www.securitylab.ru"/>
+            <outline type="rss" text="Нонейм" title="Нонейм" xmlUrl="http://feeds.feedburner.com/noname_nnm_ru" htmlUrl="http://nnm.me/rss/"/>
+            <outline type="rss" text="iXBT.com: свежие новости всех разделов вместе" title="iXBT.com: свежие новости всех разделов вместе" xmlUrl="http://www.ixbt.com/export/news.rss" htmlUrl="http://www.ixbt.com/"/>
+            <outline type="rss" text="iXBT статьи" title="iXBT статьи" xmlUrl="http://www.ixbt.com/export/articles.rdf" htmlUrl="http://www.ixbt.com/"/>
+            <outline type="rss" text="Lifehacker.ru" title="Lifehacker.ru" xmlUrl="http://feeds.feedburner.com/demoblog-ru" htmlUrl="https://lifehacker.ru"/>
+            <outline type="rss" text="SaaS.RU" title="SaaS.RU" xmlUrl="http://saas.ru/rss/" htmlUrl="http://www.saas.ru/rss"/>
+        </outline>
+        <outline text="-- AppleNews --" title="-- AppleNews --">
+            <outline type="rss" text="AppleInsider" title="AppleInsider" xmlUrl="http://feeds.pheedo.com/appleinsider" htmlUrl="http://appleinsider.com"/>
+            <outline type="rss" text="iPhone, iPod Touch, iPad Application List" title="iPhone, iPod Touch, iPad Application List" xmlUrl="http://iphoneapplicationlist.com/feed/" htmlUrl="http://iphoneapplicationlist.com"/>
+            <outline type="rss" text="iPhoneSDKPro" title="iPhoneSDKPro" xmlUrl="http://iphonesdkpro.com/rss.xml" htmlUrl="http://iphonesdkpro.com"/>
+            <outline type="rss" text="Mac OS World.ru" title="Mac OS World.ru" xmlUrl="http://macosworld.ru/?feed=rss2" htmlUrl="http://macosworld.ru"/>
+            <outline type="rss" text="mac world" title="mac world" xmlUrl="http://feeds.macworld.com/macworld/iphone"/>
+            <outline type="rss" text="iPhone Atlas" title="iPhone Atlas" xmlUrl="http://www.iphoneatlas.com/feed/" htmlUrl="https://www.cnet.com/collections/iphone-update"/>
+            <outline type="rss" text="iPhone Hacks" title="iPhone Hacks" xmlUrl="http://feeds.iphonehacks.com/iphonehacks" htmlUrl="http://www.iphonehacks.com"/>
+            <outline type="rss" text="Mac OS X Hints" title="Mac OS X Hints" xmlUrl="http://feeds.feedburner.com/macosxhints-ru" htmlUrl="http://macosxhints.ru"/>
+            <outline type="rss" text="AppStudio.org" title="AppStudio.org" xmlUrl="http://appstudio.org/feed" htmlUrl="http://appstudio.org"/>
+            <outline type="rss" text="Apple Developer Connection - ADC Headlines" title="Apple Developer Connection - ADC Headlines" xmlUrl="http://developer.apple.com/rss/adcheadlines.rss" htmlUrl="https://developer.apple.com/news/"/>
+            <outline type="rss" text="iOS Developer News" title="iOS Developer News" xmlUrl="http://developer.apple.com/rss/iphonedevnews.rss" htmlUrl="https://developer.apple.com/news/"/>
+            <outline type="rss" text="Mactrick.com" title="Mactrick.com" xmlUrl="http://www.mactrick.com/feed/" htmlUrl="http://mactrick.com"/>
+            <outline type="rss" text="iPhone Buzz" title="iPhone Buzz" xmlUrl="http://feeds.feedburner.com/MYiPhone" htmlUrl="http://www.iphonebuzz.com"/>
+            <outline type="rss" text="MacRumors : Mac News and Rumors" title="MacRumors : Mac News and Rumors" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com"/>
+            <outline type="rss" text="Блог Маковод - Всё о Mac OS, iPod, iPhone, Mac и других продуктах Apple" title="Блог Маковод - Всё о Mac OS, iPod, iPhone, Mac и других продуктах Apple" xmlUrl="http://feeds.feedburner.com/macovod" htmlUrl="http://macovod.net"/>
+            <outline type="rss" text="DeepApple.com" title="DeepApple.com" xmlUrl="http://deepapple.com/news/rss/rss.xml" htmlUrl="http://deepapple.com/"/>
+        </outline>
+        <outline text="-- Games --" title="-- Games --">
+            <outline type="rss" text="World of Tanks — бесплатная игра про танки. Читайте новости WoT на официальном сайте | World of Tanks" title="World of Tanks — бесплатная игра про танки. Читайте новости WoT на официальном сайте | World of Tanks" xmlUrl="http://worldoftanks.ru/ru/rss/news/" htmlUrl="http://worldoftanks.ru/ru/news/"/>
+        </outline>
+        <outline text="-- UA News --" title="-- UA News --">
+            <outline type="rss" text="Новое время" title="Новое время" xmlUrl="http://nvua.net/xml/rss.xml" htmlUrl="http://nv.ua/"/>
+            <outline type="rss" text="Новости Украины 24 часа в сутки" title="Новости Украины 24 часа в сутки" xmlUrl="http://news.liga.net/all/rss.xml" htmlUrl="http://www.liga.net"/>
+        </outline>
+        <outline text="-- EN News  --" title="-- EN News  --">
+            <outline type="rss" text="BBC News - Home" title="BBC News - Home" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="http://www.bbc.co.uk/news/"/>
+            <outline type="rss" text="Top Headlines" title="Top Headlines" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305"/>
+        </outline>
+        <outline text="-- Polska --" title="-- Polska --">
+            <outline type="rss" text="Fakty - Fakty w RMF 24 - najświeższe wiadomości z kraju i świata" title="Fakty - Fakty w RMF 24 - najświeższe wiadomości z kraju i świata" xmlUrl="http://www.rmf24.pl/fakty/feed" htmlUrl="http://www.rmf24.pl/"/>
+        </outline>
+        <outline text="twitters" title="twitters"/>
+        <outline text="-- LifeHack --" title="-- LifeHack --">
+            <outline type="rss" text="AlexGyver (uploads) on YouTube" title="AlexGyver (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUgtAOyEQdAyjvm9ATCi_Aig" htmlUrl="https://youtube.com/playlist?list=UUgtAOyEQdAyjvm9ATCi_Aig"/>
+            <outline type="rss" text="TOKARKA (uploads) on YouTube" title="TOKARKA (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUjlgDbs0-EIp8O1gdrWFC7A" htmlUrl="https://youtube.com/playlist?list=UUjlgDbs0-EIp8O1gdrWFC7A"/>
+        </outline>
+        <outline text="-- entertain --" title="-- entertain --">
+            <outline type="rss" text="Евгений ЧеширКо (Официальная страница)" title="Евгений ЧеширКо (Официальная страница)" xmlUrl="http://cheshirrrko.livejournal.com/data/rss" htmlUrl="http://cheshirrrko.livejournal.com/"/>
+            <outline type="rss" text="КиноПоиск: События" title="КиноПоиск: События" xmlUrl="http://www.kinopoisk.ru/film_event.rss" htmlUrl="https://www.kinopoisk.ru"/>
+            <outline type="rss" text="Behance Featured Projects" title="Behance Featured Projects" xmlUrl="https://www.behance.net/feeds/projects" htmlUrl="http://www.behance.net"/>
+        </outline>
+        <outline text="-- English --" title="-- English --">
+            <outline type="rss" text="Английский как по нотам" title="Английский как по нотам" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjAZw68tdv7PctCALk1-bZw" htmlUrl="http://www.youtube.com/channel/UCjAZw68tdv7PctCALk1-bZw"/>
+            <outline type="rss" text="Pyroliser (uploads) on YouTube" title="Pyroliser (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUrY07Bz8HLuGh3dTlh2Wj1A" htmlUrl="https://youtube.com/playlist?list=UUrY07Bz8HLuGh3dTlh2Wj1A"/>
+        </outline>
+        <outline text="-- Brain --" title="-- Brain --">
+            <outline type="rss" text="Alexey Redozubov (uploads) on YouTube" title="Alexey Redozubov (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUFRX06ud1laYdlbeBLe_pcA" htmlUrl="https://youtube.com/playlist?list=UUFRX06ud1laYdlbeBLe_pcA"/>
+        </outline>
+    </body>
+</opml>
